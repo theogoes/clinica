@@ -134,6 +134,9 @@ body{
     font-weight: bold;
     font-size: 2rem;
 }
+#Simular:hover{
+    cursor: pointer;
+}
 #valor{
     font-size: 2rem;
 }
